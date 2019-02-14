@@ -1,0 +1,21 @@
+------START-LICENSE-KEY------
+
+Registration_Name=Syncro Soft Test License
+
+Company=SYNCRO SOFT (Internal-use Only)
+
+Category=Enterprise
+
+Component=Scripting
+
+Version=20
+
+Number_of_Licenses=1
+
+Date=02-13-2019
+
+Trial=31
+
+SGN=MCwCFAVMXT1mhxDzevu1EIOZvl8aZ84EAhQTo/NkrgHrT+jBnRF9lzE4faft2A\=\=
+
+-------END-LICENSE-KEY-------
